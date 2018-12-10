@@ -1262,14 +1262,12 @@
 				C0C39AFD20CA50F400E505B3 /* CommonManager */,
 				C0C39B0A20CA50F400E505B3 /* CommonModel */,
 				C0C39B0D20CA50F400E505B3 /* CommonView */,
-				C0C39B5720CA50F400E505B3 /* HYCircleProgressView */,
 				C0C39B5820CA50F400E505B3 /* MJRefreshLib */,
 				C0C39B8F20CA50F400E505B3 /* PopWindws */,
 				C0C39B9920CA50F400E505B3 /* SDCycleScrollView */,
 				C0C39BA920CA50F400E505B3 /* Share */,
 				C0C39BB420CA50F400E505B3 /* SKAutoScrollLabel */,
 				C0C39BB720CA50F400E505B3 /* UserGuideController */,
-				C0C39BBA20CA50F400E505B3 /* WCAlertView */,
 			);
 			name = Common;
 			path = XXStarshipApp/Common;
@@ -1644,13 +1642,6 @@
 			path = XHDatePicker1;
 			sourceTree = "<group>";
 		};
-		C0C39B5720CA50F400E505B3 /* HYCircleProgressView */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = HYCircleProgressView;
-			sourceTree = "<group>";
-		};
 		C0C39B5820CA50F400E505B3 /* MJRefreshLib */ = {
 			isa = PBXGroup;
 			children = (
@@ -1867,13 +1858,6 @@
 				C0C39BB920CA50F400E505B3 /* DDGUserGuideViewController.m */,
 			);
 			path = UserGuideController;
-			sourceTree = "<group>";
-		};
-		C0C39BBA20CA50F400E505B3 /* WCAlertView */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = WCAlertView;
 			sourceTree = "<group>";
 		};
 		C0C39C2820CA510100E505B3 /* ThirdParty */ = {
